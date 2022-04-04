@@ -13,3 +13,5 @@
   <ul>
   <li>NodeJS</li>
 </ul>
+
+<h2>Linkedin: www.linkedin.com/in/lorenzo-marques246</h2>
