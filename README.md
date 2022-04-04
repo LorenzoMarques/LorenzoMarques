@@ -14,7 +14,7 @@
 
 <h2> Tecnologias Back-end </h2>
   <ul>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="15"/>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="25"/>
  NodeJS</li>
 </ul>
 
