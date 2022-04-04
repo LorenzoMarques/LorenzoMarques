@@ -1,5 +1,5 @@
 <h2> Olá</h2> 👋
-  Meu nome é Lorenzo Marques, atualemnte estudo desenvolvimento full-stack. Gosto muito de resolver problemas e estou procurando minha primeira opotunidade no mercado de trabalho.
+  Meu nome é Lorenzo Marques, atualmente estudo desenvolvimento full-stack. Gosto muito de resolver problemas e estou procurando minha primeira opotunidade no mercado de trabalho.
   
  <h2> Tecnologias Front-end </h2>
   <ul>
