@@ -14,8 +14,8 @@
 
 <h2> Tecnologias Back-end </h2>
   <ul>
-  <li height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ </li height="40">
 </ul>
 
 <h2>Linkedin: www.linkedin.com/in/lorenzo-marques246</h2>
