@@ -15,7 +15,7 @@
 <h2> Tecnologias Back-end </h2>
   <ul>
   <li>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+        <img src="https://kinsta.com/wp-content/uploads/2021/08/Django-WordPress.png" alt="django" width="40" height="40"/>
  </li>
   <li>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
