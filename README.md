@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/lorenzo-marques246/">
  <img src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" width="20" height="20"/>
 </a>
-<p>Meu nome é Lorenzo Marques e Atualmente participo de um projeto Full-Stack com simulação de ambiente de trabalho real utilizando a metodologia SCRUM. Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end.</p<
+<p>Meu nome é Lorenzo Marques e Atualmente participo de um projeto Full-Stack com simulação de ambiente de trabalho real utilizando a metodologia SCRUM. </p<
 <br>
-<p>Também já atuei como missionário de tempo integral voluntário no interior de São Paulo no período de maio de 2019 até maio de 2020. Como missionário pude aprender a trabalhar em equipe, superar adversidades e também a importância de planejar um projeto de maneira adequada.</p>
+<p>Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end. Sou uma pessoa tranquila, que sabe lidar com críticas e busca melhorar a cada dia. Sempre irei dar meu melhor em qualquer que seja a equipe que eu estiver.</p>
 
-<p>Sou uma pessoa tranquila, que sabe lidar com críticas e busca melhorar a cada dia. Sempre irei dar meu melhor em qualquer que seja a equipe que eu estiver.</p>
+<p>Também já atuei como missionário de tempo integral voluntário no interior de São Paulo no período de maio de 2019 até maio de 2020. Como missionário pude aprender a trabalhar em equipe, superar adversidades e também a importância de planejar um projeto de maneira adequada.</p>
 
  <h2> Tecnologias Front-end </h2>
 <div>
