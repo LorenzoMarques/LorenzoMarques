@@ -9,7 +9,7 @@
 <p>Sou uma pessoa tranquila, que sabe lidar com críticas e busca melhorar a cada dia. Sempre irei dar meu melhor em qualquer que seja a equipe que eu estiver.</p>
 
  <h2> Tecnologias Front-end </h2>
-  <ul display="flex" justify-content="space-between">
+  <ul display="flex" list-style="none">
   <li ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></li>
   <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></li>
   <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </li>
