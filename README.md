@@ -1,5 +1,5 @@
 <h2>Olá</h2>
-<p>Atualmente participo de um projeto Full-Stack com simulação de ambiente de trabalho real utilizando a metodologia SCRUM. Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end.</p<
+<p>Meu nome é Lorenzo Marques e Atualmente participo de um projeto Full-Stack com simulação de ambiente de trabalho real utilizando a metodologia SCRUM. Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end.</p<
 <br>
 <p>Também já atuei como missionário de tempo integral voluntário no interior de São Paulo no período de maio de 2019 até maio de 2020. Como missionário pude aprender a trabalhar em equipe, superar adversidades e também a importância de planejar um projeto de maneira adequada.</p>
 <br>
