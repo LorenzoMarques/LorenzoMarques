@@ -1,6 +1,11 @@
 <h2>Olá</h2>
-  Meu nome é Lorenzo Marques, atualmente estudo desenvolvimento full-stack na instituição de ensino Kenzie Academy Brasil. Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end. Atualmente estou procurando minha primeira opotunidade no mercado de trabalho.
-  
+<p>Atualmente participo de um projeto Full-Stack com simulação de ambiente de trabalho real utilizando a metodologia SCRUM. Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end.</p<
+<br>
+<p>Também já atuei como missionário de tempo integral voluntário no interior de São Paulo no período de maio de 2019 até maio de 2020. Como missionário pude aprender a trabalhar em equipe, superar adversidades e também a importância de planejar um projeto de maneira adequada.</p>
+<br>
+<p>Sou uma pessoa tranquila, que sabe lidar com críticas e busca melhorar a cada dia. Sempre irei dar meu melhor em qualquer que seja a equipe que eu estiver.</p>
+<br>
+
  <h2> Tecnologias Front-end </h2>
   <ul>
   <li ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></li>
