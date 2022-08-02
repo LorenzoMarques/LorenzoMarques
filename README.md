@@ -1,4 +1,7 @@
 <h2>Olá</h2>
+<a href="https://www.linkedin.com/in/lorenzo-marques246/">
+ <img src="https://w7.pngwing.com/pngs/1004/689/png-transparent-linkedin-corporation-logo-professional-network-service-user-profile-jordan-university-of-science-and-technology-text-trademark-logo.png" width="40" height="40"/>
+</a>
 <p>Meu nome é Lorenzo Marques e Atualmente participo de um projeto Full-Stack com simulação de ambiente de trabalho real utilizando a metodologia SCRUM. Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end.</p<
 <br>
 <p>Também já atuei como missionário de tempo integral voluntário no interior de São Paulo no período de maio de 2019 até maio de 2020. Como missionário pude aprender a trabalhar em equipe, superar adversidades e também a importância de planejar um projeto de maneira adequada.</p>
