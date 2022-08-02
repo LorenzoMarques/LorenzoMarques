@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/lorenzo-marques246/">
  <img src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" width="20" height="20"/>
 </a>
-<a href="https://lorenzo-marques-portfolio.vercel.app/">
+<a href="https://lorenzo-marques-portfolio.vercel.app/" color="black" margin-left="10px">
  &lt;Lorenzo /&gt;
 </a>
 <p>Meu nome é Lorenzo Marques e Atualmente participo de um projeto Full-Stack com simulação de ambiente de trabalho real utilizando a metodologia SCRUM. Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end.</p<
