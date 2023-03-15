@@ -1,27 +1,84 @@
-<h2>Olá</h2>
-<a href="https://www.linkedin.com/in/lorenzo-marques246/">
- <img src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" width="20" height="20"/>
-</a>
-<p>Meu nome é Lorenzo Marques e atualmente participo de um projeto Full-Stack com simulação de ambiente de trabalho real utilizando a metodologia SCRUM. </p<
-<br>
-<p>Gosto muito de resolver problemas que envolvem raciocínio lógico e sou capaz de desenvolver aplicações front e back-end. Sou uma pessoa tranquila, que sabe lidar com críticas e busca melhorar a cada dia. Sempre irei dar meu melhor em qualquer que seja a equipe que eu estiver.</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">
+        <!-- Título com H1 -->
+        <h1>Lorenzo Henriqson Marques</h1>
+    <!-- Subtítulo com H2 -->
+    <h2>Contato</h2>
 
-<p>Também já atuei como missionário de tempo integral voluntário no interior de São Paulo no período de maio de 2019 até maio de 2020. Como missionário pude aprender a trabalhar em equipe, superar adversidades e também a importância de planejar um projeto de maneira adequada.</p>
+  <p>
+      Email: lorenzo.marques246@gmail.com<br>
+    </p>
+    <p>Linkedin: <a href="https://www.linkedin.com/in/lorenzohmarques/" target="_blank">
+        <img src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" width="20" height="20" align="center" alt="Lorenzo Marques"/>
+        </a></p>
+  </td>
+</tr>
+  </tbody>
+</table>
 
- <h2> Tecnologias Front-end </h2>
-<div>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</div>
+<p align="center">Meu nome é Lorenzo Marques e sou um desenvolvedor web full-stack. Possuo habilidades sólidas em HTML, CSS, Javascript, Typescript, node.js, express, Python, Django, SQL e banco de dados como PostgresSQL e MySQL e tecnologias relacionadas ao desenvolvimento web. Além disso, tenho experiência em projetos utilizando a metodologia SCRUM, permitindo-me trabalhar de forma eficiente e colaborativa em equipes ágeis.</p>
 
-<h2> Tecnologias Back-end </h2>
-  <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://kinsta.com/wp-content/uploads/2021/08/Django-WordPress.png" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</div>
+<!-- Subtítulo com H2 -->
+<h2 align="center">Skills</h2>
+
+<!-- Tabela com as habilidades -->
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5">
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3">
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript">
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript">
+        <br>Typescript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React">
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python">
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js">
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL">
+        <br>PostgreSQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="48" height="48" alt="Django">
+        <br>Django
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="48" height="48" alt="Next.js">
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker">
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL">
+        <br>MySQL
+      </td>
+    </tr>
+  </tbody>
+</table>
