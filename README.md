@@ -10,7 +10,7 @@
   <p>
       Email: lorenzo.marques246@gmail.com<br>
     </p>
-    <p>Linkedin: <a href="https://www.linkedin.com/in/lorenzohmarques/" target="_blank">
+    <p>Linkedin: <a href="https://www.linkedin.com/in/lorenzo-marques246/" target="_blank">
         <img src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" width="20" height="20" align="center" alt="Lorenzo Marques"/>
         </a></p>
   </td>
